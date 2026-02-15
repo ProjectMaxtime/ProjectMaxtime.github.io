@@ -3,10 +3,10 @@ layout: default
 title: Coming Soon
 ---
 
-<p align="center">
+<div class="center">
 
 ![Logo](your-image.png)
 
 # Coming Soon
 
-</p>
+</div>
